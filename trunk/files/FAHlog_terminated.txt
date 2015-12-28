@@ -1,0 +1,1293 @@
+
+
+--- Opening Log file [November 28 10:58:27] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: c:\Programme\Folding@Home Windows SMP Client V1.01\fah.exe
+
+
+[10:58:27] Configuring Folding@Home...
+
+
+The program will continue in non-service mode now, working in c:\Programme\Folding@Home Windows SMP Client V1.01.
+The next time the computer is starts up, you should see work automatically
+continue there. Note that when this service is running, you should not try
+to manually run F@H from that directory at the same time.
+
+
+[10:59:30] - Ask before connecting: No
+[10:59:30] - User name: vk_alexsolo (Team 47191)
+[10:59:30] - User ID: 1D28559C125369E7
+[10:59:30] - Machine ID: 1
+[10:59:30] 
+[10:59:30] Work directory not found. Creating...
+[10:59:30] Could not open work queue, generating new queue...
+[10:59:30] - Preparing to get new work unit...
+[10:59:30] + Attempting to get work packet
+[10:59:30] - Connecting to assignment server
+[10:59:31] - Successful: assigned to (171.64.65.64).
+[10:59:31] + News From Folding@Home: Welcome to Folding@Home
+[10:59:31] Loaded queue successfully.
+[10:59:43] + Closed connections
+[10:59:43] 
+[10:59:43] + Processing work unit
+[10:59:43] Core required: FahCore_a1.exe
+[10:59:43] Core not found.
+[10:59:43] - Core is not present or corrupted.
+[10:59:43] - Attempting to download new core...
+[10:59:43] + Downloading new core: FahCore_a1.exe
+[10:59:44] + 10240 bytes downloaded
+[10:59:44] + 20480 bytes downloaded
+[10:59:44] + 30720 bytes downloaded
+[10:59:44] + 40960 bytes downloaded
+[10:59:44] + 51200 bytes downloaded
+[10:59:44] + 61440 bytes downloaded
+[10:59:44] + 71680 bytes downloaded
+[10:59:44] + 81920 bytes downloaded
+[10:59:44] + 92160 bytes downloaded
+[10:59:44] + 102400 bytes downloaded
+[10:59:45] + 112640 bytes downloaded
+[10:59:45] + 122880 bytes downloaded
+[10:59:45] + 133120 bytes downloaded
+[10:59:45] + 143360 bytes downloaded
+[10:59:45] + 153600 bytes downloaded
+[10:59:45] + 163840 bytes downloaded
+[10:59:45] + 174080 bytes downloaded
+[10:59:45] + 184320 bytes downloaded
+[10:59:45] + 194560 bytes downloaded
+[10:59:45] + 204800 bytes downloaded
+[10:59:45] + 215040 bytes downloaded
+[10:59:45] + 225280 bytes downloaded
+[10:59:45] + 235520 bytes downloaded
+[10:59:45] + 245760 bytes downloaded
+[10:59:45] + 256000 bytes downloaded
+[10:59:45] + 266240 bytes downloaded
+[10:59:45] + 276480 bytes downloaded
+[10:59:45] + 286720 bytes downloaded
+[10:59:45] + 296960 bytes downloaded
+[10:59:45] + 307200 bytes downloaded
+[10:59:45] + 317440 bytes downloaded
+[10:59:45] + 327680 bytes downloaded
+[10:59:45] + 337920 bytes downloaded
+[10:59:45] + 348160 bytes downloaded
+[10:59:45] + 358400 bytes downloaded
+[10:59:45] + 368640 bytes downloaded
+[10:59:45] + 378880 bytes downloaded
+[10:59:45] + 389120 bytes downloaded
+[10:59:45] + 399360 bytes downloaded
+[10:59:45] + 409600 bytes downloaded
+[10:59:45] + 419840 bytes downloaded
+[10:59:45] + 430080 bytes downloaded
+[10:59:45] + 440320 bytes downloaded
+[10:59:45] + 450560 bytes downloaded
+[10:59:45] + 460800 bytes downloaded
+[10:59:45] + 471040 bytes downloaded
+[10:59:46] + 481280 bytes downloaded
+[10:59:46] + 491520 bytes downloaded
+[10:59:46] + 501760 bytes downloaded
+[10:59:46] + 512000 bytes downloaded
+[10:59:46] + 522240 bytes downloaded
+[10:59:46] + 532480 bytes downloaded
+[10:59:46] + 542720 bytes downloaded
+[10:59:46] + 552960 bytes downloaded
+[10:59:46] + 563200 bytes downloaded
+[10:59:46] + 573440 bytes downloaded
+[10:59:46] + 583680 bytes downloaded
+[10:59:46] + 593920 bytes downloaded
+[10:59:46] + 604160 bytes downloaded
+[10:59:46] + 614400 bytes downloaded
+[10:59:46] + 624640 bytes downloaded
+[10:59:46] + 634880 bytes downloaded
+[10:59:46] + 645120 bytes downloaded
+[10:59:46] + 655360 bytes downloaded
+[10:59:46] + 665600 bytes downloaded
+[10:59:46] + 675840 bytes downloaded
+[10:59:46] + 686080 bytes downloaded
+[10:59:46] + 696320 bytes downloaded
+[10:59:46] + 706560 bytes downloaded
+[10:59:46] + 716800 bytes downloaded
+[10:59:46] + 727040 bytes downloaded
+[10:59:46] + 737280 bytes downloaded
+[10:59:46] + 747520 bytes downloaded
+[10:59:46] + 757760 bytes downloaded
+[10:59:46] + 768000 bytes downloaded
+[10:59:46] + 778240 bytes downloaded
+[10:59:46] + 788480 bytes downloaded
+[10:59:46] + 789667 bytes downloaded
+[10:59:46] Verifying core Core_a1.fah...
+[10:59:46] Signature is VALID
+[10:59:46] 
+[10:59:46] Trying to unzip core FahCore_a1.exe
+[10:59:47] Decompressed FahCore_a1.exe (2035712 bytes) successfully
+[10:59:47] + Core successfully engaged
+[10:59:52] 
+[10:59:52] + Processing work unit
+[10:59:52] Core required: FahCore_a1.exe
+[10:59:52] Core found.
+[10:59:52] Working on Unit 01 [November 28 10:59:52]
+[10:59:52] + Working ...
+[10:59:52] 
+[10:59:52] *------------------------------*
+[10:59:52] Folding@Home Gromacs SMP Core
+[10:59:52] Version 1.74 (March 10, 2007)
+[10:59:52] 
+[10:59:52] Preparing to commence simulation
+[10:59:53] - Ensuring status. Please wait.
+[11:00:07] - Starting from initial work packet
+[11:00:07] 
+[11:00:07] Project: 2653 (Run 20, Clone 156, Gen 12)
+[11:00:07] 
+[11:00:12] Entering M.D.
+[11:00:28] - Starting from initial work packet
+[11:00:28] 
+[11:00:28] Project: 2653 (Run 20, Clone 156, Gen 12)
+[11:00:28] 
+[11:00:29] Entering M.D.
+[11:00:35] Rejecting checkpoint
+[11:00:39] Protein: Protein in POPC
+[11:00:40] Writing local files
+[11:00:47] Extra SSE boost OK.
+[11:00:48] Writing local files
+[11:00:49] Completed 0 out of 500000 steps  (0 percent)
+
+Folding@Home Client Shutdown at user request.
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [November 28 11:13:29] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Service: c:\Programme\Folding@Home Windows SMP Client V1.01\fah.exe
+Arguments: -svcstart 
+
+Launched as a service.
+Entered c:\Programme\Folding@Home Windows SMP Client V1.01 to do work.
+
+[11:13:29] - Ask before connecting: No
+[11:13:29] - User name: vk_alexsolo (Team 47191)
+[11:13:29] - User ID: 1D28559C125369E7
+[11:13:29] - Machine ID: 1
+[11:13:29] 
+[11:13:29] Loaded queue successfully.
+[11:13:29] 
+[11:13:29] + Processing work unit
+[11:13:29] Core required: FahCore_a1.exe
+[11:13:29] Core found.
+[11:13:29] Working on Unit 01 [November 28 11:13:29]
+[11:13:29] + Working ...
+[11:14:54] Service stop request received.
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [November 28 11:14:59] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Service: c:\Programme\Folding@Home Windows SMP Client V1.01\fah.exe
+Arguments: -svcstart 
+
+Launched as a service.
+Entered c:\Programme\Folding@Home Windows SMP Client V1.01 to do work.
+
+[11:14:59] - Ask before connecting: No
+[11:14:59] - User name: vk_alexsolo (Team 47191)
+[11:14:59] - User ID: 1D28559C125369E7
+[11:14:59] - Machine ID: 1
+[11:14:59] 
+[11:14:59] Loaded queue successfully.
+[11:14:59] 
+[11:14:59] + Processing work unit
+[11:14:59] Core required: FahCore_a1.exe
+[11:14:59] Core found.
+[11:14:59] Working on Unit 01 [November 28 11:14:59]
+[11:14:59] + Working ...
+[11:15:00] 
+[11:15:00] *------------------------------*
+[11:15:00] Folding@Home Gromacs SMP Core
+[11:15:00] Version 1.74 (March 10, 2007)
+[11:15:00] 
+[11:15:00] Preparing to commence simulation
+[11:15:00] - Ensuring status. Please wait.
+[11:15:17] - Looking at optimizations...
+[11:15:17] - Working with standard loops on this execution.
+[11:15:17] - Previous termination of core was improper.
+[11:15:17] - Going to use standard loops.
+[11:15:17] - Files status OK
+[11:16:39] - Expanded 2968380 -> 15205923 (decompressed 512.2 percent)
+[11:16:45] 
+[11:16:45] Project: 2653 (Run 20, Clone 156, Gen 12)
+[11:16:45] 
+[11:16:45] Entering M.D.
+[11:16:53] Calling FAH init
+[11:17:08] Read topology
+[11:17:09] (Starting from checkpoint)
+[11:17:09] Read checkpoint
+[11:17:10] Protein: Protein in POPC
+[11:17:12] Writing local files
+[11:17:28] Extra SSE boost OK.
+[11:17:31] Writing local files
+[11:17:32] Completed 0 out of 500000 steps  (0 percent)
+[12:32:10] Service stop request received.
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [November 28 12:32:47] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Service: c:\Programme\Folding@Home Windows SMP Client V1.01\fah.exe
+Arguments: -svcstart 
+
+Launched as a service.
+Entered c:\Programme\Folding@Home Windows SMP Client V1.01 to do work.
+
+[12:32:47] - Ask before connecting: No
+[12:32:47] - User name: vk_alexsolo (Team 47191)
+[12:32:47] - User ID: 1D28559C125369E7
+[12:32:47] - Machine ID: 1
+[12:32:47] 
+[12:32:47] Loaded queue successfully.
+[12:32:47] 
+[12:32:47] + Processing work unit
+[12:32:47] Core required: FahCore_a1.exe
+[12:32:47] Core found.
+[12:32:47] Working on Unit 01 [November 28 12:32:47]
+[12:32:47] + Working ...
+[12:32:48] 
+[12:32:48] *------------------------------*
+[12:32:48] Folding@Home Gromacs SMP Core
+[12:32:48] Version 1.74 (March 10, 2007)
+[12:32:48] 
+[12:32:48] Preparing to commence simulation
+[12:32:48] - Ensuring status. Please wait.
+[12:33:05] - Looking at optimizations...
+[12:33:05] - Working with standard loops on this execution.
+[12:33:05] Examination of work files indicates 8 consecutive improper terminations of core.
+[12:33:05] es status OK
+[12:33:47] - Expanded 2968380 -> 15205923 (decompressed 512.2 percent)
+[12:33:49] 
+[12:33:49] Project: 2653 (Run 20, Clone 156, Gen 12)
+[12:33:49] 
+[12:33:51] 
+[12:33:51] ntering M.D.
+[12:33:57] Calling FAH init
+[12:34:09] Read topology
+[12:34:10] (Starting from checkpoint)
+[12:34:10] Read checkpoint
+[12:34:11] Protein: Protein in POPC
+[12:34:11] Writing local files
+[12:34:11] Completed 1118 out of 500000 steps  (0 percent)
+[12:34:20] Extra SSE boost OK.
+[12:47:02] Service stop request received.
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [November 28 14:17:38] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Service: c:\Programme\Folding@Home Windows SMP Client V1.01\fah.exe
+Arguments: -svcstart 
+
+Launched as a service.
+Entered c:\Programme\Folding@Home Windows SMP Client V1.01 to do work.
+
+[14:17:38] - Ask before connecting: No
+[14:17:38] - User name: vk_alexsolo (Team 47191)
+[14:17:38] - User ID: 1D28559C125369E7
+[14:17:38] - Machine ID: 1
+[14:17:38] 
+[14:17:38] Loaded queue successfully.
+[14:17:38] 
+[14:17:38] + Processing work unit
+[14:17:38] Core required: FahCore_a1.exe
+[14:17:38] Core found.
+[14:17:38] Working on Unit 01 [November 28 14:17:38]
+[14:17:38] + Working ...
+[14:17:39] 
+[14:17:39] *------------------------------*
+[14:17:39] Folding@Home Gromacs SMP Core
+[14:17:39] Version 1.74 (March 10, 2007)
+[14:17:39] 
+[14:17:39] Preparing to commence simulation
+[14:17:39] - Ensuring status. Please wait.
+[14:17:56] - Looking at optimizations...
+[14:17:56] - Working with standard loops on this execution.
+[14:17:56] Examination of work files indicates 8 consecutive improper terminations of core.
+[14:18:39] - Expanded 2968380 -> 15205923 (decompressed 512.2 percent)
+[14:18:42] 
+[14:18:42] Project: 2653 (Run 20, Clone 156, Gen 12)
+[14:18:42] 
+[14:18:42] Entering M.D.
+[14:18:49] Calling FAH init
+[14:19:01] Read topology
+[14:19:02] (Starting from checkpoint)
+[14:19:02] Read checkpoint
+[14:19:03] Protein: Protein in POPC
+[14:19:04] Writing local files
+[14:19:04] Completed 1118 out of 500000 steps  (0 percent)
+[14:19:13] Extra SSE boost OK.
+[14:31:28] Service stop request received.
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [November 28 14:33:09] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[14:33:09] - Ask before connecting: No
+[14:33:09] - User name: vk_alexsolo (Team 47191)
+[14:33:09] - User ID: 1D28559C125369E7
+[14:33:09] - Machine ID: 1
+[14:33:09] 
+[14:33:09] Loaded queue successfully.
+[14:33:09] 
+[14:33:09] + Processing work unit
+[14:33:09] Core required: FahCore_a1.exe
+[14:33:09] Core found.
+[14:33:09] - Autosending finished units...
+[14:33:09] Trying to send all finished work units
+[14:33:09] + No unsent completed units remaining.
+[14:33:09] - Autosend completed
+[14:33:09] Working on Unit 01 [November 28 14:33:09]
+[14:33:09] + Working ...
+[14:33:09] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -forceasm -verbose -lifeline 3100 -version 591'
+
+[14:33:10] 
+[14:33:10] *------------------------------*
+[14:33:10] Folding@Home Gromacs SMP Core
+[14:33:10] Version 1.74 (March 10, 2007)
+[14:33:10] 
+[14:33:10] Preparing to commence simulation
+[14:33:10] - Ensuring status. Please wait.
+[14:33:27] - Assembly optimizations manually forced on.
+[14:33:27] - Not checking prior termination.
+[14:33:58] - Expanded 2968380 -> 15205923 (decompressed 512.2 percent)
+[14:34:00] 
+[14:34:00] Project: 2653 (Run 20, Clone 156, Gen 12)
+[14:34:00] 
+[14:34:17] Assembly optimizations on if available.
+[14:34:17] Entering M.D.
+[14:34:24] Calling FAH init
+[14:34:34] Read topology
+[14:34:34] (Starting from checkpoint)
+[14:34:35] Read checkpoint
+[14:34:36] Protein: Protein in POPC
+[14:34:36] Writing local files
+[14:34:36] Completed 1118 out of 500000 steps  (0 percent)
+[14:34:44] Extra SSE boost OK.
+[14:47:48] Killing all core threads
+[14:47:48] Killing SMP core threads
+[14:47:48] Killing 3 cores
+[14:47:48] Killing core 0
+[14:47:48] Killing core 1
+[14:47:48] Killing core 2
+
+Folding@Home Client Shutdown at user request.
+[14:47:48] ***** Got a SIGTERM signal (2)
+[14:47:48] Killing all core threads
+[14:47:48] Killing SMP core threads
+[14:47:48] Killing 3 cores
+[14:47:48] Killing core 0
+[14:47:48] Killing core 1
+[14:47:48] Killing core 2
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [November 28 16:38:06] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[16:38:06] - Ask before connecting: No
+[16:38:06] - User name: vk_alexsolo (Team 47191)
+[16:38:06] - User ID: 1D28559C125369E7
+[16:38:06] - Machine ID: 1
+[16:38:06] 
+[16:38:06] Loaded queue successfully.
+[16:38:06] 
+[16:38:06] - Autosending finished units...
+[16:38:06] + Processing work unit
+[16:38:06] Trying to send all finished work units
+[16:38:06] Core required: FahCore_a1.exe
+[16:38:06] + No unsent completed units remaining.
+[16:38:06] - Autosend completed
+[16:38:06] Core found.
+[16:38:06] Working on Unit 01 [November 28 16:38:06]
+[16:38:06] + Working ...
+[16:38:06] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -forceasm -verbose -lifeline 3992 -version 591'
+
+[16:38:07] 
+[16:38:07] *------------------------------*
+[16:38:07] Folding@Home Gromacs SMP Core
+[16:38:07] Version 1.74 (March 10, 2007)
+[16:38:08] 
+[16:38:08] Preparing to commence simulation
+[16:38:08] - Ensuring status. Please wait.
+[16:38:25] - Assembly optimizations manually forced on.
+[16:38:25] - Not checking prior termination.
+[16:38:54] - Expanded 2968380 -> 15205923 (decompressed 512.2 percent)
+[16:38:55] 
+[16:38:55] Project: 2653 (Run 20, Clone 156, Gen 12)
+[16:38:55] 
+[16:39:06] Assembly optimizations on if available.
+[16:39:06] Entering M.D.
+[16:39:13] Calling FAH init
+[16:39:47] Read topology
+[16:39:50] (Starting from checkpoint)
+[16:39:50] Read checkpoint
+[16:39:51] Protein: Protein in POPC
+[16:39:52] Writing local files
+[16:39:53] Completed 1118 out of 500000 steps  (0 percent)
+[16:40:14] Extra SSE boost OK.
+[16:54:58] Timered checkpoint triggered.
+[17:10:06] Timered checkpoint triggered.
+[17:10:53] Killing all core threads
+[17:10:53] Killing SMP core threads
+[17:10:53] Killing 3 cores
+[17:10:53] Killing core 0
+[17:10:53] Killing core 1
+[17:10:53] Killing core 2
+
+Folding@Home Client Shutdown at user request.
+[17:10:53] ***** Got a SIGTERM signal (2)
+[17:10:53] Killing all core threads
+[17:10:53] Killing SMP core threads
+[17:10:53] Killing 3 cores
+[17:10:53] Killing core 0
+[17:10:53] Killing core 1
+[17:10:53] Killing core 2
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [November 28 17:11:06] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[17:11:06] - Ask before connecting: No
+[17:11:06] - User name: vk_alexsolo (Team 47191)
+[17:11:06] - User ID: 1D28559C125369E7
+[17:11:06] - Machine ID: 1
+[17:11:06] 
+[17:11:06] Loaded queue successfully.
+[17:11:06] 
+[17:11:06] + Processing work unit
+[17:11:06] - Autosending finished units...
+[17:11:06] Core required: FahCore_a1.exe
+[17:11:06] Trying to send all finished work units
+[17:11:06] + No unsent completed units remaining.
+[17:11:06] - Autosend completed
+[17:11:06] Core found.
+[17:11:06] Working on Unit 01 [November 28 17:11:06]
+[17:11:06] + Working ...
+[17:11:06] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -forceasm -verbose -lifeline 1240 -version 591'
+
+[17:11:07] 
+[17:11:07] *------------------------------*
+[17:11:07] Folding@Home Gromacs SMP Core
+[17:11:07] Version 1.74 (March 10, 2007)
+[17:11:07] 
+[17:11:07] Preparing to commence simulation
+[17:11:07] - Ensuring status. Please wait.
+[17:11:24] - Assembly optimizations manually forced on.
+[17:11:24] - Not checking prior termination.
+[17:11:39] - Expanded 2968380 -> 15205923 (decompressed 512.2 percent)
+[17:11:40] 
+[17:11:40] Project: 2653 (Run 20, Clone 156, Gen 12)
+[17:11:40] 
+[17:11:51] Assembly optimizations on if available.
+[17:11:51] Entering M.D.
+[17:12:34] Calling FAH init
+[17:12:45] Read topology
+[17:12:46] g local files
+[17:12:46]  checkpoint)
+[17:12:46] Read checkpoint
+[17:12:47] Protein: Protein in POPC
+[17:12:47] Writing local files
+[17:12:47] Completed 1417 out of 500000 steps  (0 percent)
+[17:12:58] Extra SSE boost OK.
+[17:27:49] Timered checkpoint triggered.
+[17:42:55] Timered checkpoint triggered.
+[17:58:01] Timered checkpoint triggered.
+[18:13:07] Timered checkpoint triggered.
+[18:28:13] Timered checkpoint triggered.
+[18:43:18] Timered checkpoint triggered.
+[18:58:22] Timered checkpoint triggered.
+[19:13:26] Timered checkpoint triggered.
+[19:28:29] Timered checkpoint triggered.
+[19:40:17] Writing local files
+[19:40:18] Completed 5000 out of 500000 steps  (1 percent)
+[19:55:20] Timered checkpoint triggered.
+[20:10:23] Timered checkpoint triggered.
+[20:25:26] Timered checkpoint triggered.
+[20:40:29] Timered checkpoint triggered.
+[20:55:32] Timered checkpoint triggered.
+[21:10:35] Timered checkpoint triggered.
+[21:25:42] Timered checkpoint triggered.
+[21:40:44] Timered checkpoint triggered.
+[21:55:48] Timered checkpoint triggered.
+[22:10:50] Timered checkpoint triggered.
+[22:25:52] Timered checkpoint triggered.
+[22:40:55] Timered checkpoint triggered.
+[22:55:57] Timered checkpoint triggered.
+[23:04:03] Writing local files
+[23:04:04] Completed 10000 out of 500000 steps  (2 percent)
+[23:11:06] - Autosending finished units...
+[23:11:06] Trying to send all finished work units
+[23:11:06] + No unsent completed units remaining.
+[23:11:06] - Autosend completed
+[23:19:06] Timered checkpoint triggered.
+[23:34:09] Timered checkpoint triggered.
+[23:49:11] Timered checkpoint triggered.
+[00:04:13] Timered checkpoint triggered.
+[00:19:15] Timered checkpoint triggered.
+[00:34:17] Timered checkpoint triggered.
+[00:49:20] Timered checkpoint triggered.
+[01:04:22] Timered checkpoint triggered.
+[01:19:24] Timered checkpoint triggered.
+[01:34:27] Timered checkpoint triggered.
+[01:49:30] Timered checkpoint triggered.
+[02:04:32] Timered checkpoint triggered.
+[02:19:34] Timered checkpoint triggered.
+[02:27:58] Writing local files
+[02:27:59] Completed 15000 out of 500000 steps  (3 percent)
+[02:43:00] Timered checkpoint triggered.
+[02:58:02] Timered checkpoint triggered.
+[03:13:04] Timered checkpoint triggered.
+[03:28:09] Timered checkpoint triggered.
+[03:43:12] Timered checkpoint triggered.
+[03:58:15] Timered checkpoint triggered.
+[04:13:18] Timered checkpoint triggered.
+[04:28:20] Timered checkpoint triggered.
+[04:43:23] Timered checkpoint triggered.
+[04:58:26] Timered checkpoint triggered.
+[05:11:06] - Autosending finished units...
+[05:11:06] Trying to send all finished work units
+[05:11:06] + No unsent completed units remaining.
+[05:11:06] - Autosend completed
+[05:13:29] Timered checkpoint triggered.
+[05:28:31] Timered checkpoint triggered.
+[05:43:34] Timered checkpoint triggered.
+[05:51:10] Writing local files
+[05:51:12] Completed 20000 out of 500000 steps  (4 percent)
+[06:06:14] Timered checkpoint triggered.
+[06:21:17] Timered checkpoint triggered.
+[06:36:19] Timered checkpoint triggered.
+[06:51:23] Timered checkpoint triggered.
+[07:06:27] Timered checkpoint triggered.
+[07:21:29] Timered checkpoint triggered.
+[07:36:32] Timered checkpoint triggered.
+[07:51:34] Timered checkpoint triggered.
+[08:06:37] Timered checkpoint triggered.
+[08:21:40] Timered checkpoint triggered.
+[08:36:42] Timered checkpoint triggered.
+[08:51:45] Timered checkpoint triggered.
+[09:06:47] Timered checkpoint triggered.
+[09:07:56] Killing all core threads
+[09:07:56] Killing SMP core threads
+[09:07:56] Killing 3 cores
+[09:07:56] Killing core 0
+[09:07:56] Killing core 1
+[09:07:56] Killing core 2
+
+Folding@Home Client Shutdown at user request.
+[09:07:56] ***** Got a SIGTERM signal (2)
+[09:07:56] Killing all core threads
+[09:07:56] Killing SMP core threads
+[09:07:56] Killing 3 cores
+[09:07:56] Killing core 0
+[09:07:56] Killing core 1
+[09:07:56] Killing core 2
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [November 30 08:53:08] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Service: c:\Programme\Folding@Home Windows SMP Client V1.01\fah.exe
+Arguments: -svcstart -local -verbosity 9 -forceasm 
+
+Launched as a service.
+Entered c:\Programme\Folding@Home Windows SMP Client V1.01 to do work.
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[08:53:08] - Ask before connecting: No
+[08:53:08] - User name: vk_alexsolo (Team 47191)
+[08:53:08] - User ID: 1D28559C125369E7
+[08:53:08] - Machine ID: 1
+[08:53:08] 
+[08:53:09] Loaded queue successfully.
+[08:53:09] 
+[08:53:09] + Processing work unit
+[08:53:09] Core required: FahCore_a1.exe
+[08:53:09] Core found.
+[08:53:09] - Autosending finished units...
+[08:53:09] Trying to send all finished work units
+[08:53:09] + No unsent completed units remaining.
+[08:53:09] - Autosend completed
+[08:53:09] Working on Unit 01 [November 30 08:53:09]
+[08:53:09] + Working ...
+[08:53:09] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -service -forceasm -verbose -lifeline 1592 -version 591'
+
+[08:53:18] CoreStatus = 63 (99)
+[08:53:18] + Error starting Folding@Home core.
+[08:53:23] 
+[08:53:23] + Processing work unit
+[08:53:23] Core required: FahCore_a1.exe
+[08:53:23] Core found.
+[08:53:23] Working on Unit 01 [November 30 08:53:23]
+[08:53:23] + Working ...
+[08:53:23] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -service -forceasm -verbose -lifeline 1592 -version 591'
+
+[08:53:25] 
+[08:53:25] *------------------------------*
+[08:53:25] Folding@Home Gromacs SMP Core
+[08:53:25] Version 1.74 (March 10, 2007)
+[08:53:25] 
+[08:53:25] Preparing to commence simulation
+[08:53:25] - Ensuring status. Please wait.
+[08:53:42] - Assembly optimizations manually forced on.
+[08:53:42] - Not checking prior termination.
+[08:54:08] - Expanded 2968380 -> 15205923 (decompressed 512.2 percent)
+[08:54:12] 
+[08:54:12] Project: 2653 (Run 20, Clone 156, Gen 12)
+[08:54:12] 
+[08:54:25] Assembly optimizations on if available.
+[08:54:25] Entering M.D.
+[08:54:35] Calling FAH init
+[08:54:41] Read topology
+[08:54:42] (Starting from checkpoint)
+[08:54:46] Read checkpoint
+[08:54:46] Protein: Protein in POPC
+[08:54:47] Writing local files
+[08:54:48] Completed 24802 out of 500000 steps  (4 percent)
+[08:54:56] Extra SSE boost OK.
+[08:55:16] Service stop request received.
+[08:55:16] ***** Got a SIGTERM signal (2)
+[08:55:16] Killing all core threads
+[08:55:16] Killing SMP core threads
+[08:55:16] Killing 3 cores
+[08:55:16] Killing core 0
+[08:55:16] Killing core 1
+[08:55:16] Killing core 2
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [December 19 12:07:58] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[12:07:58] - Ask before connecting: No
+[12:07:58] - User name: vk_alexsolo (Team 47191)
+[12:07:58] - User ID: 1D28559C125369E7
+[12:07:58] - Machine ID: 1
+[12:07:58] 
+[12:07:58] Loaded queue successfully.
+[12:07:58] Unit 1's deadline (December 2 10:59) has passed.
+[12:08:05] Killing all core threads
+[12:08:05] Killing SMP core threads
+[12:08:05] Killing 3 cores
+[12:08:05] Killing core 0
+[12:08:05] Killing core 1
+[12:08:05] Killing core 2
+
+Folding@Home Client Shutdown at user request.
+[12:08:05] ***** Got a SIGTERM signal (2)
+[12:08:05] Killing all core threads
+[12:08:05] Killing SMP core threads
+[12:08:05] Killing 3 cores
+[12:08:05] Killing core 0
+[12:08:05] Killing core 1
+[12:08:05] Killing core 2
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [December 19 12:08:19] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[12:08:19] - Ask before connecting: No
+[12:08:19] - User name: vk_alexsolo (Team 47191)
+[12:08:19] - User ID: 1D28559C125369E7
+[12:08:19] - Machine ID: 1
+[12:08:19] 
+[12:08:19] Work directory not found. Creating...
+[12:08:19] Could not open work queue, generating new queue...
+[12:08:19] - Preparing to get new work unit...
+[12:08:19] - Autosending finished units...
+[12:08:19] Trying to send all finished work units
+[12:08:19] + Attempting to get work packet
+[12:08:19] + No unsent completed units remaining.
+[12:08:19] - Will indicate memory of 1534 MB
+[12:08:19] - Autosend completed
+[12:08:19] - Connecting to assignment server
+[12:08:19] Connecting to http://assign.stanford.edu:8080/
+[12:08:20] Posted data.
+[12:08:20] Initial: 40AB; - Successful: assigned to (171.64.65.64).
+[12:08:20] + News From Folding@Home: Welcome to Folding@Home
+[12:08:20] Loaded queue successfully.
+[12:08:20] Connecting to http://171.64.65.64:8080/
+[12:08:23] Posted data.
+[12:08:23] Initial: 0000; - Receiving payload (expected size: 2970333)
+[12:08:33] - Downloaded at ~290 kB/s
+[12:08:33] - Averaged speed for that direction ~290 kB/s
+[12:08:33] + Received work.
+[12:08:33] + Closed connections
+[12:08:33] 
+[12:08:33] + Processing work unit
+[12:08:33] Core required: FahCore_a1.exe
+[12:08:33] Core found.
+[12:08:33] Working on Unit 01 [December 19 12:08:33]
+[12:08:33] + Working ...
+[12:08:33] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -forceasm -verbose -lifeline 2624 -version 591'
+
+[12:08:41] CoreStatus = 63 (99)
+[12:08:41] + Error starting Folding@Home core.
+[12:08:46] Killing all core threads
+
+Folding@Home Client Shutdown at user request.
+[12:08:46] ***** Got a SIGTERM signal (2)
+[12:08:46] Killing all core threads
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [December 19 12:13:09] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[12:13:09] - Ask before connecting: No
+[12:13:09] - User name: vk_alexsolo (Team 47191)
+[12:13:09] - User ID: 1D28559C125369E7
+[12:13:09] - Machine ID: 1
+[12:13:09] 
+[12:13:09] Loaded queue successfully.
+[12:13:09] 
+[12:13:09] - Autosending finished units...
+[12:13:09] + Processing work unit
+[12:13:09] Core required: FahCore_a1.exe
+[12:13:09] Trying to send all finished work units
+[12:13:09] Core found.
+[12:13:09] + No unsent completed units remaining.
+[12:13:09] Working on Unit 01 [December 19 12:13:09]
+[12:13:09] - Autosend completed
+[12:13:09] + Working ...
+[12:13:09] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -forceasm -verbose -lifeline 3528 -version 591'
+
+[12:13:10] 
+[12:13:10] *------------------------------*
+[12:13:10] Folding@Home Gromacs SMP Core
+[12:13:10] Version 1.74 (March 10, 2007)
+[12:13:10] 
+[12:13:10] Preparing to commence simulation
+[12:13:10] - Ensuring status.ations manually forced on.
+[12:13:10] - Not checking prior termination.
+[12:13:17] - Expanded 2969821 -> 15191787 (decompressed 511.5 percent)
+[12:13:17] - Starting from initial work packet
+[12:13:17] 
+[12:13:17] Project: 2653 (Run 35, Clone 114, Gen 25)
+[12:13:17] 
+[12:13:17] Assembly optimizations on if available.
+[12:13:17] Entering M.D.
+[12:13:36] Killing all core threads
+[12:13:36] Killing SMP core threads
+[12:13:36] Killing 3 cores
+[12:13:36] Killing core 0
+[12:13:36] Killing core 1
+[12:13:36] Killing core 2
+
+Folding@Home Client Shutdown at user request.
+[12:13:36] ***** Got a SIGTERM signal (2)
+[12:13:36] Killing all core threads
+[12:13:36] Killing SMP core threads
+[12:13:36] Killing 3 cores
+[12:13:36] Killing core 0
+[12:13:36] Killing core 1
+[12:13:36] Killing core 2
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [December 20 15:07:58] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[15:07:58] - Ask before connecting: No
+[15:07:58] - User name: vk_alexsolo (Team 47191)
+[15:07:58] - User ID: 1D28559C125369E7
+[15:07:58] - Machine ID: 1
+[15:07:58] 
+[15:07:58] Loaded queue successfully.
+[15:07:58] 
+[15:07:58] - Autosending finished units...
+[15:07:58] + Processing work unit
+[15:07:58] Trying to send all finished work units
+[15:07:58] Core required: FahCore_a1.exe
+[15:07:58] + No unsent completed units remaining.
+[15:07:58] - Autosend completed
+[15:07:58] Core found.
+[15:07:58] Working on Unit 01 [December 20 15:07:58]
+[15:07:58] + Working ...
+[15:07:58] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -forceasm -verbose -lifeline 3204 -version 591'
+
+[15:07:59] 
+[15:07:59] *------------------------------*
+[15:07:59] Folding@Home Gromacs SMP Core
+[15:07:59] Version 1.74 (March 10, 2007)
+[15:07:59] 
+[15:07:59] Preparing to commence simulation
+[15:07:59] - Ensuring status. Please wait.
+[15:08:16] - Assembly optimizations manually forced on.
+[15:08:16] - Not checking prior termination.
+[15:08:42] - Expanded 2969821 -> 15191787 (decompressed 511.5 percent)
+[15:08:43] - Starting from initial work packet
+[15:08:43] 
+[15:08:43] Project: 2653 (Run 35, Clone 114, Gen 25)
+[15:08:43] 
+[15:08:43] ay files
+[15:08:43] - Starting from initial work packet
+[15:08:43] 
+[15:08:43] Project: 2653 (Run
+[15:08:43] Project: 2653 (Run 35, Clone 114, Gen 25)
+[15:08:43] 
+[15:08:44] Assembly optimizations on if available.
+[15:08:44] Entering M.D.
+[15:08:50] t
+[15:08:54] Protein: Protein in POPC
+[15:08:54] iting local files
+[15:08:55] s
+[15:08:56] tra SSE boost OK.
+[15:08:59] .
+[15:09:00] Writing local files
+[15:09:01] Completed 0 out of 500000 steps  (0 percent)
+[15:09:10] Killing all core threads
+[15:09:10] Killing SMP core threads
+[15:09:10] Killing 3 cores
+[15:09:10] Killing core 0
+[15:09:10] Killing core 1
+[15:09:10] Killing core 2
+
+Folding@Home Client Shutdown at user request.
+[15:09:10] ***** Got a SIGTERM signal (2)
+[15:09:10] Killing all core threads
+[15:09:10] Killing SMP core threads
+[15:09:10] Killing 3 cores
+[15:09:10] Killing core 0
+[15:09:10] Killing core 1
+[15:09:10] Killing core 2
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [December 28 12:43:11] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[12:43:11] - Ask before connecting: No
+[12:43:11] - User name: vk_alexsolo (Team 47191)
+[12:43:11] - User ID: 1D28559C125369E7
+[12:43:11] - Machine ID: 1
+[12:43:11] 
+
+A potential conflict was detected:
+
+Process 2800 is currently running and may also be a client with Mach. ID 1.
+Program will now exit. Upon restart, this check will not be done -- 
+you may wish to check that no client is currently running in
+c:\Programme\Folding@Home before restarting.
+
+Please press any key to exit.
+
+
+--- Opening Log file [December 28 12:43:22] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[12:43:22] - Ask before connecting: No
+[12:43:22] - User name: vk_alexsolo (Team 47191)
+[12:43:22] - User ID: 1D28559C125369E7
+[12:43:22] - Machine ID: 2
+[12:43:22] 
+[12:43:23] Loaded queue successfully.
+[12:43:23] Unit 1's deadline (December 23 12:08) has passed.
+[12:44:54] Killing all core threads
+[12:44:54] Killing SMP core threads
+[12:44:54] Killing 3 cores
+[12:44:54] Killing core 0
+[12:44:54] Killing core 1
+[12:44:54] Killing core 2
+
+Folding@Home Client Shutdown at user request.
+[12:44:54] ***** Got a SIGTERM signal (2)
+[12:44:54] Killing all core threads
+[12:44:54] Killing SMP core threads
+[12:44:54] Killing 3 cores
+[12:44:54] Killing core 0
+[12:44:54] Killing core 1
+[12:44:54] Killing core 2
+
+Folding@Home Client Shutdown.
+
+
+--- Opening Log file [December 28 12:45:40] 
+
+
+# SMP Client ##################################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.91beta5
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home Windows SMP Client V1.01
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[12:45:40] - Ask before connecting: No
+[12:45:40] - User name: vk_alexsolo (Team 47191)
+[12:45:40] - User ID: 1D28559C125369E7
+[12:45:40] - Machine ID: 2
+[12:45:40] 
+[12:45:40] Could not open work queue, generating new queue...
+[12:45:40] - Preparing to get new work unit...
+[12:45:40] + Attempting to get work packet
+[12:45:40] - Will indicate memory of 1534 MB
+[12:45:40] - Connecting to assignment server
+[12:45:40] Connecting to http://assign.stanford.edu:8080/
+[12:45:40] - Autosending finished units...
+[12:45:40] Trying to send all finished work units
+[12:45:40] + No unsent completed units remaining.
+[12:45:40] - Autosend completed
+[12:45:41] Posted data.
+[12:45:41] Initial: 40AB; - Successful: assigned to (171.64.65.64).
+[12:45:41] + News From Folding@Home: Welcome to Folding@Home
+[12:45:41] Loaded queue successfully.
+[12:45:41] Connecting to http://171.64.65.64:8080/
+[12:45:45] Posted data.
+[12:45:45] Initial: 0000; - Receiving payload (expected size: 2941345)
+[12:45:53] - Downloaded at ~359 kB/s
+[12:45:53] - Averaged speed for that direction ~359 kB/s
+[12:45:53] + Received work.
+[12:45:54] + Closed connections
+[12:45:54] 
+[12:45:54] + Processing work unit
+[12:45:54] Core required: FahCore_a1.exe
+[12:45:54] Core found.
+[12:45:54] Working on Unit 01 [December 28 12:45:54]
+[12:45:54] + Working ...
+[12:45:54] - Calling 'mpiexec -channel auto -np 4 FahCore_a1.exe -dir work/ -suffix 01 -checkpoint 15 -forceasm -verbose -lifeline 2860 -version 591'
+
+[12:45:55] t.ly forced on.
+[12:45:55] - Not checking prior termination.
+[12:46:09] - Expanded 2940833 -> 15217014 (decompressed 517.4 percent)
+[12:46:09] - Starting from initial work packet
+[12:46:09] 
+[12:46:09] Project: 2653 (Run 34, Clone 175, Gen 30)
+[12:46:09] 
+[12:46:27] Assembly optimizations on if available.
+[12:46:27] Entering M.D.
+[12:46:31]  on if available.
+[12:46:31] Entering M.D.
+[12:46:39] Rejecting checkpoint
+[12:46:58] Protein: Protein in POPC
+[12:46:58] Writing local files
+[12:47:05] Extra SSE boost OK.
+[12:47:07] Writing local files
+[12:47:07] Completed 0 out of 500000 steps  (0 percent)
+[13:02:08] Timered checkpoint triggered.
+[13:08:01] Killing all core threads
+[13:08:01] Killing SMP core threads
+[13:08:01] Killing 3 cores
+[13:08:01] Killing core 0
+[13:08:01] Killing core 1
+[13:08:01] Killing core 2
+
+Folding@Home Client Shutdown at user request.
+[13:08:01] ***** Got a SIGTERM signal (2)
+[13:08:01] Killing all core threads
+[13:08:01] Killing SMP core threads
+[13:08:01] Killing 3 cores
+[13:08:01] Killing core 0
+[13:08:01] Killing core 1
+[13:08:01] Killing core 2
+
+Folding@Home Client Shutdown.

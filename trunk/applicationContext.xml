@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+  <!-- Quartz settings -->
+
+  <!-- Setting for FTP upload -->
+  <bean id="FTPUploader" class="net.ypsilon.FTPUpload">
+     <property name="host"     value="ftp.servage.net"/>
+     <property name="user"     value="fah"/>
+     <property name="password" value="fah"/>
+  </bean>
+
+  <bean id="SMP1Job" class="net.ypsilon.FAHCheckJob">
+     <property name="logFileName" value="c:\Programme\Folding@Home\FAHlog.txt"/>
+     <property name="ftpFileName" value="test.inc"/>
+     <property name="ftp">
+        <ref bean="FTPUploader"/>
+     </property>
+  </bean>
+
+  <bean id="SMP2Job" class="net.ypsilon.FAHCheckJob">
+     <property name="logFileName" value="c:\Programme\Folding@Home Windows SMP Client V1.01\FAHlog.txt"/>
+     <property name="ftpFileName" value="quad_smp1.inc"/>
+     <property name="ftp">
+        <ref bean="FTPUploader"/>
+     </property>
+  </bean>
+
+  <bean id="FAHCheck1" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+     <property name="targetObject" ref="SMP1Job"/>
+     <property name="targetMethod" value="executeJob"/>
+     <property name="concurrent" value="true"/>
+  </bean>
+
+  <bean id="FAHCheck2" class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+     <property name="targetObject" ref="SMP2Job"/>
+     <property name="targetMethod" value="executeJob"/>
+     <property name="concurrent" value="true"/>
+  </bean>
+
+  <bean id="SMP1Trigger" class="org.springframework.scheduling.quartz.SimpleTriggerBean">
+     <property name="jobDetail">
+        <ref bean="FAHCheck1"/>
+     </property>
+     <property name="startDelay">
+        <value>5000</value>
+     </property>
+     <property name="repeatInterval">
+        <value>60000</value>
+     </property>
+  </bean>
+
+  <bean id="SMP2Trigger" class="org.springframework.scheduling.quartz.SimpleTriggerBean">
+     <property name="jobDetail">
+        <ref bean="FAHCheck2"/>
+     </property>
+     <property name="startDelay">
+        <value>10000</value>
+     </property>
+     <property name="repeatInterval">
+        <value>60000</value>
+     </property>
+  </bean>
+
+  <bean class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+    <property name="triggers">
+      <list>
+        <ref bean="SMP1Trigger"/>
+        <!-- <ref bean="SMP2Trigger"/> -->
+      </list>
+    </property>
+  </bean>
+
+</beans>

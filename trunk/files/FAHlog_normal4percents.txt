@@ -1,0 +1,201 @@
+
+
+--- Opening Log file [December 24 09:03:23] 
+
+
+# Windows Console Edition #####################################################
+###############################################################################
+
+                       Folding@Home Client Version 5.04beta
+
+                          http://folding.stanford.edu
+
+###############################################################################
+###############################################################################
+
+Launch directory: c:\Programme\Folding@Home
+Executable: fah.exe
+Arguments: -local -verbosity 9 -forceasm 
+
+Warning:
+ By using the -forceasm flag, you are overriding
+ safeguards in the program. If you did not intend to
+ do this, please restart the program without -forceasm.
+ If work units are not completing fully (and particularly
+ if your machine is overclocked), then please discontinue
+ use of the flag.
+
+[09:03:23] - Ask before connecting: No
+[09:03:23] - User name: Alexey.Solodovnikov (Team 47191)
+[09:03:23] - User ID: 1D28559C125369E7
+[09:03:23] - Machine ID: 1
+[09:03:23] 
+[09:03:23] Work directory not found. Creating...
+[09:03:23] Could not open work queue, generating new queue...
+[09:03:23] + Benchmarking ...
+[09:03:26] The benchmark result is 6236
+[09:03:26] - Preparing to get new work unit...
+[09:03:26] - Autosending finished units...
+[09:03:26] + Attempting to get work packet
+[09:03:26] Trying to send all finished work units
+[09:03:26] + No unsent completed units remaining.
+[09:03:26] - Will indicate memory of 1534 MB
+[09:03:26] - Autosend completed
+[09:03:26] - Connecting to assignment server
+[09:03:26] Connecting to http://assign.stanford.edu:8080/
+[09:03:27] Posted data.
+[09:03:27] Initial: 41AB; - Successful: assigned to (171.65.103.160).
+[09:03:27] + News From Folding@Home: Welcome to Folding@Home
+[09:03:27] Loaded queue successfully.
+[09:03:27] Connecting to http://171.65.103.160:8080/
+[09:03:28] Posted data.
+[09:03:28] Initial: 0000; - Receiving payload (expected size: 269274)
+[09:03:30] - Downloaded at ~131 kB/s
+[09:03:30] - Averaged speed for that direction ~131 kB/s
+[09:03:30] + Received work.
+[09:03:30] + Closed connections
+[09:03:30] 
+[09:03:30] + Processing work unit
+[09:03:30] Core required: FahCore_78.exe
+[09:03:30] Core not found.
+[09:03:30] - Core is not present or corrupted.
+[09:03:30] - Attempting to download new core...
+[09:03:30] + Downloading new core: FahCore_78.exe
+[09:03:30] Downloading core (/~pande/Win32/x86//Core_78.fah from www.stanford.edu)
+[09:03:30] Initial: AFDE; + 10240 bytes downloaded
+[09:03:31] Initial: 2993; + 20480 bytes downloaded
+[09:03:31] Initial: 4590; + 30720 bytes downloaded
+[09:03:31] Initial: 1F95; + 40960 bytes downloaded
+[09:03:31] Initial: 6459; + 51200 bytes downloaded
+[09:03:31] Initial: FD92; + 61440 bytes downloaded
+[09:03:31] Initial: 62E6; + 71680 bytes downloaded
+[09:03:31] Initial: 1F03; + 81920 bytes downloaded
+[09:03:32] Initial: 1707; + 92160 bytes downloaded
+[09:03:32] Initial: 8862; + 102400 bytes downloaded
+[09:03:32] Initial: B1CE; + 112640 bytes downloaded
+[09:03:32] Initial: D9DE; + 122880 bytes downloaded
+[09:03:32] Initial: 5C0A; + 133120 bytes downloaded
+[09:03:32] Initial: 3FF3; + 143360 bytes downloaded
+[09:03:32] Initial: 4529; + 153600 bytes downloaded
+[09:03:32] Initial: 635C; + 163840 bytes downloaded
+[09:03:32] Initial: 869F; + 174080 bytes downloaded
+[09:03:32] Initial: C8A8; + 184320 bytes downloaded
+[09:03:32] Initial: 1A54; + 194560 bytes downloaded
+[09:03:32] Initial: BDCB; + 204800 bytes downloaded
+[09:03:32] Initial: CC8C; + 215040 bytes downloaded
+[09:03:32] Initial: 12EB; + 225280 bytes downloaded
+[09:03:32] Initial: 4886; + 235520 bytes downloaded
+[09:03:32] Initial: 29D0; + 245760 bytes downloaded
+[09:03:32] Initial: AF1F; + 256000 bytes downloaded
+[09:03:32] Initial: 05BE; + 266240 bytes downloaded
+[09:03:32] Initial: D366; + 276480 bytes downloaded
+[09:03:32] Initial: A52F; + 286720 bytes downloaded
+[09:03:32] Initial: 1E70; + 296960 bytes downloaded
+[09:03:32] Initial: 7229; + 307200 bytes downloaded
+[09:03:32] Initial: A7F6; + 317440 bytes downloaded
+[09:03:32] Initial: 44C2; + 327680 bytes downloaded
+[09:03:32] Initial: A72B; + 337920 bytes downloaded
+[09:03:32] Initial: 9C10; + 348160 bytes downloaded
+[09:03:32] Initial: 891C; + 358400 bytes downloaded
+[09:03:32] Initial: F143; + 368640 bytes downloaded
+[09:03:32] Initial: 795C; + 378880 bytes downloaded
+[09:03:32] Initial: 8C2B; + 389120 bytes downloaded
+[09:03:32] Initial: FC93; + 399360 bytes downloaded
+[09:03:32] Initial: F24B; + 409600 bytes downloaded
+[09:03:32] Initial: 9D83; + 419840 bytes downloaded
+[09:03:32] Initial: 0F67; + 430080 bytes downloaded
+[09:03:32] Initial: FB4A; + 440320 bytes downloaded
+[09:03:32] Initial: F331; + 450560 bytes downloaded
+[09:03:33] Initial: 5BF6; + 460800 bytes downloaded
+[09:03:33] Initial: 240B; + 471040 bytes downloaded
+[09:03:33] Initial: 47D4; + 481280 bytes downloaded
+[09:03:33] Initial: 3AB2; + 491520 bytes downloaded
+[09:03:33] Initial: 0F84; + 501760 bytes downloaded
+[09:03:33] Initial: CA7A; + 512000 bytes downloaded
+[09:03:33] Initial: 3B69; + 522240 bytes downloaded
+[09:03:33] Initial: F0AA; + 532480 bytes downloaded
+[09:03:33] Initial: 1B36; + 542720 bytes downloaded
+[09:03:33] Initial: BCE4; + 552960 bytes downloaded
+[09:03:33] Initial: 9BEA; + 563200 bytes downloaded
+[09:03:33] Initial: E168; + 573440 bytes downloaded
+[09:03:33] Initial: C3A1; + 583680 bytes downloaded
+[09:03:33] Initial: 5920; + 593920 bytes downloaded
+[09:03:33] Initial: 1D0F; + 604160 bytes downloaded
+[09:03:33] Initial: E779; + 614400 bytes downloaded
+[09:03:33] Initial: E6CE; + 624640 bytes downloaded
+[09:03:33] Initial: 9E24; + 634880 bytes downloaded
+[09:03:33] Initial: EB69; + 645120 bytes downloaded
+[09:03:33] Initial: 38FC; + 655360 bytes downloaded
+[09:03:33] Initial: 6F35; + 665600 bytes downloaded
+[09:03:33] Initial: 8C15; + 675840 bytes downloaded
+[09:03:33] Initial: 21FE; + 686080 bytes downloaded
+[09:03:33] Initial: B05C; + 696320 bytes downloaded
+[09:03:33] Initial: 1BD5; + 706560 bytes downloaded
+[09:03:33] Initial: FD2D; + 716800 bytes downloaded
+[09:03:33] Initial: 2210; + 727040 bytes downloaded
+[09:03:33] Initial: BC67; + 737280 bytes downloaded
+[09:03:33] Initial: C396; + 747520 bytes downloaded
+[09:03:33] Initial: A39D; + 757760 bytes downloaded
+[09:03:33] Initial: D988; + 768000 bytes downloaded
+[09:03:33] Initial: 7358; + 778240 bytes downloaded
+[09:03:33] Initial: 3F63; + 788480 bytes downloaded
+[09:03:33] Initial: 7C28; + 798720 bytes downloaded
+[09:03:33] Initial: A4B3; + 808960 bytes downloaded
+[09:03:33] Initial: 9978; + 819200 bytes downloaded
+[09:03:33] Initial: C1AC; + 825633 bytes downloaded
+[09:03:33] Verifying core Core_78.fah...
+[09:03:33] Signature is VALID
+[09:03:33] 
+[09:03:33] Trying to unzip core FahCore_78.exe
+[09:03:34] Decompressed FahCore_78.exe (2338816 bytes) successfully
+[09:03:34] + Core successfully engaged
+[09:03:39] 
+[09:03:39] + Processing work unit
+[09:03:39] Core required: FahCore_78.exe
+[09:03:39] Core found.
+[09:03:39] Working on Unit 01 [December 24 09:03:39]
+[09:03:39] + Working ...
+[09:03:39] - Calling 'FahCore_78.exe -dir work/ -suffix 01 -checkpoint 10 -forceasm -verbose -lifeline 716 -version 504'
+
+[09:03:39] 
+[09:03:39] *------------------------------*
+[09:03:39] Folding@Home Gromacs Core
+[09:03:39] Version 1.90 (March 8, 2006)
+[09:03:39] 
+[09:03:39] Preparing to commence simulation
+[09:03:39] - Assembly optimizations manually forced on.
+[09:03:39] - Not checking prior termination.
+[09:03:40] - Expanded 268762 -> 1352197 (decompressed 503.1 percent)
+[09:03:40] - Starting from initial work packet
+[09:03:40] 
+[09:03:40] Project: 2149 (Run 0, Clone 230, Gen 52)
+[09:03:40] 
+[09:03:40] Assembly optimizations on if available.
+[09:03:40] Entering M.D.
+[09:03:46] Protein: p2149_villinN68H_99p
+[09:03:46] 
+[09:03:46] Writing local files
+[09:03:46] Extra SSE boost OK.
+[09:03:46] Writing local files
+[09:03:46] Completed 0 out of 2000000 steps  (0)
+[09:13:46] Timered checkpoint triggered.
+[09:23:46] Timered checkpoint triggered.
+[09:33:46] Timered checkpoint triggered.
+[09:43:46] Timered checkpoint triggered.
+[09:44:59] Writing local files
+[09:44:59] Completed 20000 out of 2000000 steps  (1)
+[09:54:59] Timered checkpoint triggered.
+[10:04:59] Timered checkpoint triggered.
+[10:14:59] Timered checkpoint triggered.
+[10:24:35] Writing local files
+[14:24:35] Completed 40000 out of 2000000 steps  (2)
+[14:34:35] Timered checkpoint triggered.
+[14:45:35] Timered checkpoint triggered.
+[14:55:35] Timered checkpoint triggered.
+[15:04:54] Writing local files
+[15:04:54] Completed 60000 out of 2000000 steps  (3)
+[15:14:54] Timered checkpoint triggered.
+[15:24:54] Timered checkpoint triggered.
+[15:34:54] Timered checkpoint triggered.
+[15:44:38] Writing local files
+[15:44:38] Completed 80000 out of 2000000 steps  (4)

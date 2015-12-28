@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/spring.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/quartz-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/FAH/lib/finj-1.1.3.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

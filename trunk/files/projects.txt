@@ -1,0 +1,248 @@
+http://fah-web.stanford.edu/psummary.html
+
+Project Number	Server IP Work Unit Name	Number of Atoms	Preferred (days)	Final deadline (days) 	Credit	Frames	Code	Description	Contact
+
+1164	171.65.103.156 	p1164_RIBO_H2O_froz	91787	 7.00	 80.00	 574.00	100	GROMACS	Description	dlucent
+1165	171.65.103.156 	p1165_RIBO_H2O_flex	91787	7.00	87.00	622.00	100	GROMACS	Description	dlucent
+1168	171.65.103.161 	p1168_p1164_RIBO_H2O_froz	91787	7.00	80.00	574.00	100	GROMACS	Description	dlucent
+1169	171.65.103.161 	p1169_p1164_RIBO_H2O_froz	91787	7.00	80.00	574.00	100	GROMACS	Description	dlucent
+1170	171.65.103.161 	p1170_p1164_RIBO_H2O_froz	91787	7.00	80.00	574.00	100	GROMACS	Description	dlucent
+1171	171.65.103.161 	p1171_p1164_RIBO_H2O_froz	91787	7.00	80.00	574.00	100	GROMACS	Description	dlucent
+1487	171.65.103.68 	p1487_DPPC_DOPC_CHOL	87920	47.00	150.00	1741.00	100	GROMACS33	Description	kasson
+1497	171.64.122.128 	p1497_TETHERED VESICLES	126006	35.00	52.00	292.00	100	GROMACS	Description	kasson
+1498	171.64.122.128 	p1498_TETHERED VESICLES	308047	38.00	76.00	755.00	100	GROMACS	Description	kasson
+1816	171.65.103.158 	p1816_COL1	76522	62.00	92.00	330.00	100	GROMACS33	Description	spark
+2146	171.65.103.160 	p2146_lambda m1 expl	16437	44.00	65.00	230.00	100	GROMACS	Description	densign
+2147	171.65.103.160 	p2147_lambda_m2_expl_99p	16427	42.00	61.00	218.00	100	GROMACS	Description	densign
+2148	171.65.103.160 	p2148_supervillin_99p	9117	43.00	63.00	225.00	100	GROMACS	Description	densign
+2149	171.65.103.160 	p2149_villinN68H_99p	8867	42.00	62.00	220.00	100	GROMACS	Description	densign
+2150	171.65.103.160 	p2150_lambda m1 expl 373K 99p	16437	44.00	65.00	230.00	100	GROMACS	Description	densign
+2151	171.65.103.160 	p2151_p2147_lambda_m2_expl_99p_373K	16427	42.00	61.00	218.00	100	GROMACS	Description	densign
+2152	171.65.103.160 	p2152_p2148_supervillin_99p_373K	9117	43.00	63.00	225.00	100	GROMACS	Description	densign
+2153	171.65.103.160 	p2153_p2149_villinN68H_99p_373K	8867	42.00	62.00	220.00	100	GROMACS	Description	densign
+2416	171.65.103.162 	p2416_Ribosome_Na	87978	30.00	82.00	500.00	100	GROMACS	Description	ppetrone
+2417	171.65.103.162 	p2417_Ribo_Cl	87974	30.00	82.00	500.00	100	GROMACS	Description	ppetrone
+2418	171.65.103.162 	p2418_Ribo_Mg	87974	30.00	82.00	500.00	100	GROMACS	Description	ppetrone
+2425	171.65.103.162 	p2425_Ribo_Na_aux	87976	30.00	82.00	500.00	100	GROMACS	Description	ppetrone
+2426	171.65.103.162 	p2426_Ribo_Cl_aux	87974	30.00	82.00	500.00	100	GROMACS	Description	ppetrone
+2427	171.65.103.162 	p2427_Ribo_Cl_aux	87974	30.00	82.00	500.00	100	GROMACS	Description	ppetrone
+2556	171.64.65.42 	p2556_fs_ambers	264	1.33	4.00	330.00	100	GRO-PS3	Description	luttmann
+2557	171.64.65.42 	p2557_p2556_fs_ambers	264	1.33	4.00	330.00	100	GRO-PS3	Description	luttmann
+2558	171.64.65.42 	p2558_dpdpII_amber96	333	1.70	5.00	412.00	100	GRO-PS3	Description	luttmann
+2559	171.64.65.42 	p2559_dpdpII_amber96	333	1.10	3.30	275.00	100	GRO-PS3	Description	luttmann
+2560	171.64.65.42 	p2560_p2556_fs_ambers	264	1.20	3.00	308.00	100	GRO-PS3	Description	luttmann
+2561	171.64.65.42 	p2561_fs_ambers	264	1.00	3.00	270.00	100	GRO-PS3	Description	luttmann
+2562	171.64.65.42 	p2562_dpdpII_amber96	333	1.60	4.80	401.00	100	GRO-PS3	Description	luttmann
+2563	171.64.65.42 	p2563_dpdpII_amber96	333	1.10	3.30	250.00	100	GRO-PS3	Description	luttmann
+2564	171.64.65.42 	p2564_A21_agbnp_amber99	222	1.20	3.50	290.00	100	GRO-PS3	Description	luttmann
+2565	171.64.65.42 	p2565_A21_agbnp_amber99	222	0.90	2.60	210.00	100	GRO-PS3	Description	luttmann
+2567	171.64.65.83 	p2567:dpdpII-amber99-ddsig	333	1.00	1.10	60.00	100	GRO-PS3	Description	luttmann
+2568	171.64.65.83 	p2568:BBA5-amberGS-ddsig	386	1.00	1.10	60.00	100	GRO-PS3	Description	luttmann
+2569	171.64.65.83 	p2569_p2557_dpdpII_amber99	333	1.20	1.80	300.00	100	GRO-PS3	Description	luttmann
+2570	171.64.65.83 	p2570_p2568:BBA5-amberGS-ddsig	386	1.40	2.00	340.00	100	GRO-PS3	Description	luttmann
+2571	171.64.65.83 	p2571_Fs_peptide	264	1.30	2.00	310.00	100	GRO-PS3	Description	luttmann
+2572	171.64.65.83 	p2572_BBA5_pfold_GBSA	385	1.40	2.00	320.00	100	GRO-PS3	Description	luttmann
+2573	171.64.65.83 	p2573_Fs_peptide	264	1.30	2.00	310.00	100	GRO-PS3	Description	luttmann
+2574	171.64.65.83 	p2574_Fs_peptide	264	1.00	1.60	240.00	100	GRO-PS3	Description	luttmann
+2575	171.64.65.83 	p2575_Fs_peptide	264	1.00	1.60	240.00	100	GRO-PS3	Description	luttmann
+2576	171.64.65.83 	p2576_Fs_peptide	264	1.00	1.60	240.00	100	GRO-PS3	Description	luttmann
+2577	171.64.65.83 	p2577_A21_agbnp_amber99	222	0.90	2.60	210.00	100	GRO-PS3	Description	luttmann
+2578	171.64.65.83 	p2578_A21_agbnp_amber99	222	1.30	2.00	300.00	100	GRO-PS3	Description	luttmann
+2579	171.64.65.83 	p2579_A21_agbnp_amber99	222	1.10	1.70	260.00	100	GRO-PS3	Description	luttmann
+2580	171.64.65.83 	p2580_A21_agbnp_amber99	222	1.20	1.80	280.00	100	GRO-PS3	Description	luttmann
+2581	171.64.65.83 	p2581_A21_agbnp_amber99	222	1.10	1.70	260.00	100	GRO-PS3	Description	luttmann
+2604	171.64.65.56 	p2604_Protein in POPC	77373	3.00	4.00	1760.00	100	GRO-SMP	Description	kasson
+2605	171.64.65.56 	p2605_Protein in POPC	77373	3.00	4.00	1760.00	100	GRO-SMP	Description	kasson
+2606	171.64.65.65 	p2606_tet_1499	126006	20.00	40.00	292.00	100	GROMACS	Description	kasson
+2608	171.64.65.56 	P2608	126010	4.00	4.00	1385.00	100	GRO-SMP	Description	kasson
+2609	171.64.65.56 	P2609	126010	4.00	4.00	1523.00	100	GRO-SMP	Description	kasson
+2610	171.64.65.64 	P2610	126010	4.00	4.00	1523.00	100	GRO-SMP	Description	kasson
+2611	171.64.65.65 	p2611_POPE	127052	20.00	40.00	682.00	100	GROMACS	Description	kasson
+2612	171.64.65.65 	p2612_tet_new	126006	20.00	40.00	292.00	100	GROMACS	Description	kasson
+2613	171.64.65.65 	p2613_TETHERED VESICLES	308047	20.00	40.00	755.00	100	GROMACS	Description	kasson
+2614	171.64.65.65 	p2614_LIPID ONLY	149277	20.00	40.00	287.00	100	GROMACS33	Description	kasson
+2615	171.64.65.65 	p2615_Protein	126108	30.00	50.00	664.00	100	GROMACS	Description	kasson
+2620	171.64.65.65 	p2620_p1475_tet1_03_1 t= 20000.00000	126006	20.00	40.00	292.00	100	GROMACS	Description	kasson
+2621	171.64.65.65 	p2621_p1475_tet1_03_1 t= 20000.00000	126006	20.00	40.00	292.00	100	GROMACS	Description	kasson
+2651	171.64.65.64 	p2651_Protein in POPC	77373	3.00	4.00	1760.00	100	GRO-SMP	Description	kasson
+2652	171.64.65.64 	p2652_P2650	33529	3.00	3.00	1148.00	100	GRO-SMP	Description	kasson
+2653	171.64.65.64 	p2653_Protein in POPC	77583	3.00	4.00	1760.00	100	GRO-SMP	Description	kasson
+2711	171.65.103.159 	p2711_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2721	171.65.103.159 	p2721_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2723	171.65.103.159 	p2723_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2725	171.65.103.159 	p2725_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2732	171.64.65.20 	p2732_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2733	171.64.65.20 	p2733_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2734	171.64.65.20 	p2734_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2735	171.64.65.20 	p2735_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2736	171.64.65.20 	p2736_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2737	171.64.65.20 	p2737_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2738	171.64.65.20 	p2738_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2739	171.64.65.20 	p2739_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2740	171.64.65.20 	p2740_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2741	171.64.65.20 	p2741_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2742	171.64.65.20 	p2742_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2743	171.64.65.20 	p2743_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2744	171.64.65.20 	p2744_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2745	171.64.65.20 	p2745_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2746	171.64.65.20 	p2746_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2747	171.64.65.20 	p2747_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2748	171.64.65.20 	p2748_GPUlambda	1258	3.00	6.00	330.00	100	GROGPU	Description	densign
+2928	171.64.122.78 	p2928_fs_simtemp_nat	6384	62.00	92.00	330.00	100	GROST	Description	huangx
+2929	171.64.122.78 	p2929_fs_simtemp_unf	6384	62.00	92.00	330.00	100	GROST	Description	huangx
+2951	171.65.103.158 	p2951_fs_simtemp_nat	6384	10.00	14.00	44.00	100	GROSIMT	Description	huangx
+2952	171.65.103.158 	p2952_fs_simtemp_unf	6384	10.00	14.00	44.00	100	GROSIMT	Description	huangx
+2962	171.64.122.78 	p2962_BBA5_N_Amb03	12200	26.00	38.00	132.00	100	GROST	Description	gbowman
+2963	171.64.122.78 	p2963_BBA5_U_Amb99	12200	26.00	38.00	132.00	100	GROST	Description	gbowman
+2966	171.64.122.78 	p2966_BBA5_N_Amb99p	12200	26.00	38.00	132.00	100	GROST	Description	gbowman
+2967	171.64.122.78 	p2967_BBA5_U_Amb99p	12200	26.00	38.00	132.00	100	GROST	Description	gbowman
+3023	171.64.65.56 	p3023_SMP-water-box	9642	1.50	2.50	587.00	100	GRO-SMP	Description	densign
+3025	171.64.65.56 	p3025_SMP-nsv-03	9684	1.50	2.50	587.00	100	GRO-SMP	Description	densign
+3027	171.64.65.56 	p3027_SMP-nsv-03	9684	1.50	2.50	716.00	100	GRO-SMP	Description	densign
+3039	171.65.103.160 	p3039_p3030_supervillin-03	9684	36.00	53.00	186.00	100	GROMACS	Description	densign
+3040	171.64.65.58 	p3040_p3030_supervillin-03	9684	36.00	53.00	186.00	100	GROMACS	Description	densign
+3041	171.64.65.58 	p3041_p3030_supervillin-03	9684	36.00	53.00	186.00	100	GROMACS	Description	densign
+3042	171.64.65.58 	p3042_p3030_supervillin-03	9684	36.00	53.00	186.00	100	GROMACS	Description	densign
+3043	171.64.65.63 	p3043_p3029_SMP-emsv-03	9684	1.50	3.00	1440.00	100	GRO-SMP	Description	densign
+3044	171.64.65.58 	p3044_Human Hpin1 mutant 4	8810	42.00	61.00	218.00	100	GROMACS	Description	densign
+3045	171.64.65.58 	p3045_FORMIN BINDING PROTEIN	8433	59.00	88.00	314.00	100	GROMACS	Description	densign
+3046	171.64.65.58 	p3046_human_hpin1_m1_99p	9590	45.00	66.00	236.00	100	GROMACS	Description	densign
+3047	171.64.65.58 	p3047_Human Hpin1 mutant 4 373K	8810	42.00	61.00	218.00	100	GROMACS	Description	densign
+3048	171.64.65.58 	p3048_FORMIN BINDING PROTEIN_373K	8433	59.00	88.00	314.00	100	GROMACS	Description	densign
+3049	171.64.65.58 	p3049_human_hpin1_m1_99p_373K	9590	45.00	66.00	236.00	100	GROMACS	Description	densign
+3050	171.64.65.63 	p3050_SMP-svE4A-03	9679	1.50	3.00	1440.00	100	GRO-SMP	Description	densign
+3051	171.64.65.63 	p3051_SMP-svV9A-03	9678	1.50	3.00	1440.00	100	GRO-SMP	Description	densign
+3052	171.64.65.63 	p3052_SMP-sv3way-03	9664	1.50	3.00	1440.00	100	GRO-SMP	Description	densign
+3059	171.64.65.63 	p3059_supervillin_newbox	19875	1.25	2.42	1167.00	100	GRO-SMP	Description	densign
+3060	171.64.65.63 	p3060_BBA5_1	9416	2.58	5.21	2539.00	100	GRO-SMP	Description	densign
+3061	171.64.65.63 	p3061_lambda5_2003	21521	1.36	2.72	1329.00	100	GRO-SMP	Description	densign
+3062	171.64.65.63 	p3062_lambda5_99sb	21521	1.35	2.71	1324.00	100	GRO-SMP	Description	densign
+3063	171.64.65.63 	p3063_lambda5_99sb_big	66728	1.88	3.76	1837.00	100	GRO-SMP	Description	densign
+3191	171.64.65.96 	p3191_supervillin_StillGBSA_AM03_e1	576	2.00	3.00	211.00	100	GRO-PS3	Description	densign
+3192	171.64.65.96 	p3192_supervillin_StillGBSA_AM03_e2	576	1.30	4.00	289.00	100	GRO-PS3	Description	densign
+3193	171.64.65.96 	p3193_N68H_StillGBSA_AM03_e1	582	1.20	3.60	270.00	100	GRO-PS3	Description	densign
+3195	171.64.65.96 	p3195_supervillin_StillGBSA_AM99sb_e1	576	2.00	3.00	250.00	100	GRO-PS3	Description	densign
+3196	171.64.65.96 	p3196_p3192_supervillin_StillGBSA_AM03_e2	576	1.30	4.00	289.00	100	GRO-PS3	Description	densign
+3199	171.64.65.96 	p3199_p3190_supervillin_e1.25	576	1.30	4.00	287.00	100	GRO-PS3	Description	densign
+3303	171.64.65.106 	p3303_ribocomp-pr	27775	2.00	13.00	57.00	40	DGROMACS	Description	guha
+3304	171.64.65.106 	p3304_ribmorelig	1795	3.00	9.00	34.00	100	DGROMACS	Description	NA
+3305	171.64.65.106 	p3305_ribomorecomp	39049	5.00	25.00	91.00	40	DGROMACS	Description	NA
+3402	171.65.103.160 	p3402_dpdp-ii TIP3P ff94	14312	39.00	58.00	206.00	100	GROMACS	Description	vvoelz
+3403	171.65.103.160 	p3403_dpdp-ii TIP3P ff96	14312	39.00	58.00	206.00	100	GROMACS	Description	vvoelz
+3404	171.65.103.160 	p3404_dpdp-ii TIP3P ff99	14312	39.00	58.00	206.00	100	GROMACS	Description	vvoelz
+3405	171.65.103.160 	p3405_dpdp-ii TIP3P ff03	14312	39.00	58.00	206.00	100	GROMACS	Description	vvoelz
+3406	171.65.103.160 	p3406_dpdp-ii	14312	39.00	58.00	206.00	100	GROMACS	Description	vvoelz
+3410	171.64.65.73 	p3410_ntl9_capped_StillGB_298K	633	1.70	2.55	383.00	100	GRO-PS3	Description	vvoelz
+3412	171.64.65.73 	p3412_ntl9_capped_StillGB_298K	633	1.70	2.55	340.00	100	GRO-PS3	Description	vvoelz
+3422	171.64.65.73 	p3422_ntl9_capped_StillGB_298K	633	1.70	2.55	383.00	100	GRO-PS3	Description	vvoelz
+3423	171.64.65.73 	p3423_ntl9_capped_StillGB_298K	633	1.70	2.55	385.00	100	GRO-PS3	Description	vvoelz
+3424	171.64.65.73 	p3424_ntl9_capped_StillGB_298K	633	1.70	2.55	385.00	100	GRO-PS3	Description	vvoelz
+3425	171.64.65.73 	p3425_ntl9_capped_StillGB_298K	633	1.70	2.55	385.00	100	GRO-PS3	Description	vvoelz
+3426	171.64.65.73 	p3426_ntl9_capped_StillGB_298K	633	1.70	2.55	385.00	100	GRO-PS3	Description	vvoelz
+3603	171.64.122.82 	p3603_Seq22_Amber03_Native	12398	64.00	96.00	343.00	100	GROSIMT	Description	huangx
+3604	171.64.122.82 	p3604_Seq22_Amber03_Extended	12398	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3608	171.64.122.82 	p3608_Seq23_Amber03_Extended	12383	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3611	171.64.122.82 	p3611_Seq24_Amber03_Native	12404	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3612	171.64.122.82 	p3612_Seq24_Amber03_Extended	12404	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3615	171.64.122.82 	p3615_Seq25_Amber03_Native	12394	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3616	171.64.122.82 	p3616_Seq25_Amber03_Extended	12394	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3619	171.64.122.82 	p3619_Seq26_Amber03_Native	12391	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3620	171.64.122.82 	p3620_Seq26_Amber03_Extended	12391	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3623	171.64.122.82 	p3623_Seq27_Amber03_Native	12396	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3624	171.64.122.82 	p3624_Seq27_Amber03_Extended	12396	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3627	171.64.122.82 	p3627_Seq11_Amber03_Native	12390	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3628	171.64.122.82 	p3628_Seq11_Amber03_Extended	12390	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3631	171.64.122.82 	p3631_Seq12_Amber03_Native	12384	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3632	171.64.122.82 	p3632_Seq12_Amber03_Extended	12384	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3635	171.64.122.82 	p3635_Seq13_Amber03_Native	12392	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3636	171.64.122.82 	p3636_Seq13_Amber03_Extended	12392	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3639	171.64.122.82 	p3639_Seq14_Amber03_Native	12392	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3640	171.64.122.82 	p3640_Seq14_Amber03_Extended	12392	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3643	171.64.122.82 	p3643_Seq15_Amber03_Native	12385	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3644	171.64.122.82 	p3644_Seq15_Amber03_Extended	12385	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3651	171.64.122.72 	p3651_Seq22_Amber03_Native	12398	64.00	96.00	343.00	100	GROST	Description	gbowman
+3652	171.64.122.72 	p3652_Seq22_Amber03_Extended	12398	64.00	96.00	343.00	100	GROST	Description	gbowman
+3655	171.64.122.72 	p3655_Seq23_Amber03_Native	12383	64.00	96.00	343.00	100	GROST	Description	gbowman
+3656	171.64.122.72 	p3656_Seq23_Amber03_Extended	12383	64.00	96.00	343.00	100	GROST	Description	gbowman
+3659	171.64.122.72 	p3659_Seq24_Amber03_Native	12404	64.00	96.00	343.00	100	GROST	Description	gbowman
+3660	171.64.122.72 	p3660_Seq24_Amber03_Extended	12404	64.00	96.00	343.00	100	GROST	Description	gbowman
+3663	171.64.122.72 	p3663_Seq25_Amber03_Native	12394	64.00	96.00	343.00	100	GROST	Description	gbowman
+3664	171.64.122.72 	p3664_Seq25_Amber03_Extended	12394	64.00	96.00	343.00	100	GROST	Description	gbowman
+3667	171.64.122.72 	p3667_Seq26_Amber03_Native	12391	64.00	96.00	343.00	100	GROST	Description	gbowman
+3668	171.64.122.72 	p3668_Seq26_Amber03_Extended	12391	64.00	96.00	343.00	100	GROST	Description	gbowman
+3671	171.64.122.72 	p3671_Seq27_Amber03_Native	12396	64.00	96.00	343.00	100	GROST	Description	gbowman
+3672	171.64.122.72 	p3672_Seq27_Amber03_Extended	12396	64.00	96.00	343.00	100	GROST	Description	gbowman
+3675	171.64.122.72 	p3675_Seq20_Amber03_Native	12395	64.00	96.00	343.00	100	GROST	Description	gbowman
+3676	171.64.122.72 	p3676_Seq20_Amber03_Extended	12395	64.00	96.00	343.00	100	GROST	Description	gbowman
+3679	171.64.122.72 	p3679_Seq11_Amber03_Native	12390	64.00	96.00	343.00	100	GROST	Description	gbowman
+3680	171.64.122.72 	p3680_Seq11_Amber03_Extended	12390	64.00	96.00	343.00	100	GROST	Description	gbowman
+3683	171.64.122.72 	p3683_Seq12_Amber03_Native	12384	64.00	96.00	343.00	100	GROST	Description	gbowman
+3684	171.64.122.72 	p3684_Seq12_Amber03_Extended	12384	64.00	96.00	343.00	100	GROST	Description	gbowman
+3687	171.64.122.72 	p3687_Seq13_Amber03_Native	12392	64.00	96.00	343.00	100	GROST	Description	gbowman
+3688	171.64.122.72 	p3688_Seq13_Amber03_Extended	12392	64.00	96.00	343.00	100	GROST	Description	gbowman
+3691	171.64.122.72 	p3691_Seq14_Amber03_Native	12392	64.00	96.00	343.00	100	GROST	Description	gbowman
+3692	171.64.122.72 	p3692_Seq14_Amber03_Extended	12392	64.00	96.00	343.00	100	GROST	Description	gbowman
+3695	171.64.122.72 	p3695_Seq15_Amber03_Native	12385	64.00	96.00	343.00	100	GROST	Description	gbowman
+3696	171.64.122.72 	p3696_Seq15_Amber03_Extended	12385	64.00	96.00	343.00	100	GROST	Description	gbowman
+3699	171.64.122.72 	p3699_Seq16_Amber03_Native	12379	64.00	96.00	343.00	100	GROST	Description	gbowman
+3700	171.64.122.72 	p3700_Seq16_Amber03_Extended	12379	64.00	96.00	343.00	100	GROST	Description	gbowman
+3703	171.64.122.72 	p3703_Seq17_Amber03_Native	12393	64.00	96.00	343.00	100	GROST	Description	gbowman
+3704	171.64.122.72 	p3704_Seq17_Amber03_Extended	12393	64.00	96.00	343.00	100	GROST	Description	gbowman
+3707	171.64.122.72 	p3707_Seq18_Amber03_Native	12393	64.00	96.00	343.00	100	GROST	Description	gbowman
+3708	171.64.122.72 	p3708_Seq18_Amber03_Extended	12393	64.00	96.00	343.00	100	GROST	Description	gbowman
+3711	171.64.122.72 	p3711_Seq19_Amber03_Native	12371	64.00	96.00	343.00	100	GROST	Description	gbowman
+3712	171.64.122.72 	p3712_Seq19_Amber03_Extended	12371	64.00	96.00	343.00	100	GROST	Description	gbowman
+3713	171.64.122.72 	p3713_Villin_amber99p_Native	15469	88.00	131.00	474.00	100	GROST	Description	gbowman
+3717	171.64.122.72 	p3717_wwMouse_amber99p_Native	16585	92.00	137.00	493.00	100	GROST	Description	gbowman
+3721	171.64.122.72 	p3721_WW_amber99p_Native	16343	91.00	136.00	491.00	100	GROST	Description	gbowman
+3725	171.64.122.72 	p3725_wwMutant_amber99p_Native	16343	91.00	135.00	487.00	100	GROST	Description	gbowman
+3729	171.64.122.82 	p3729_Seq16_Amber03_Native	12379	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3730	171.64.122.82 	p3730_Seq16_Amber03_Extended	12379	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3731	171.64.122.82 	p3731_Seq17_Amber03_Native	12393	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3732	171.64.122.82 	p3732_Seq17_Amber03_Extended	12393	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3733	171.64.122.82 	p3733_Seq18_Amber03_Native	12393	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3734	171.64.122.82 	p3734_Seq18_Amber03_Extended	12393	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3735	171.64.122.82 	p3735_Seq19_Amber03_Native	12371	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3736	171.64.122.82 	p3736_Seq19_Amber03_Extended	12371	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3737	171.64.122.82 	p3737_Seq20_Amber03_Native	12395	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3738	171.64.122.82 	p3738_Seq20_Amber03_Extended	12395	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3739	171.64.122.82 	p3739_Seq21_Amber03_Native	12392	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3740	171.64.122.82 	p3740_Seq21_Amber03_Extended	12392	64.00	96.00	343.00	100	GROSIMT	Description	gbowman
+3852	128.59.74.4 	p3852_		21.00	31.00	343.00	100	DGROMACSB	Description	mrshirts
+3853	128.59.74.4 	p3853_p3851_fkbprelative_complex	14907	24.00	40.00	443.00	100	DGROMACSB	Description	mrshirts
+3903	171.64.122.83 	p3903_	147170	64.00	94.00	338.00	50	DGROMACS	Description	kasson
+3905	171.64.122.83 	p3905_	147161	64.00	94.00	338.00	50	DGROMACS	Description	kasson
+4000	171.64.65.96 	p4000_supervillin_StillGBSA_AM03_e1	576	2.00	3.00	250.00	100	GRO-PS3	Description	densign
+4001	171.64.65.96 	p4001_supervillin_StillGBSA_AM03_e2	576	1.30	4.00	289.00	100	GRO-PS3	Description	densign
+4004	171.64.65.96 	p4004_supervillin_StillGBSA_AM99sb_e1	576	2.00	3.00	250.00	100	GRO-PS3	Description	densign
+4005	171.64.65.96 	p4005_p3192_supervillin_StillGBSA_AM03_e2	576	1.30	4.00	289.00	100	GRO-PS3	Description	densign
+4006	171.64.65.96 	p4006_N68H_StillGBSA_AM99sb_e1	582	1.20	3.60	270.00	100	GRO-PS3	Description	densign
+4007	171.64.65.96 	p4007_p3194_N68H_StillGBSA_AM03_e2	582	1.20	3.60	275.00	100	GRO-PS3	Description	densign
+4008	171.64.65.96 	p4008_supervillin_StillGBSA_AM03_e1	576	2.00	3.00	250.00	100	GRO-PS3	Description	densign
+4009	171.64.65.96 	p4009_N68H_StillGBSA_AM03_e2	582	1.20	3.60	275.00	100	GRO-PS3	Description	densign
+4010	171.64.65.96 	p4010_supervillin_2xStillGBSA_AM03_e1	576	2.00	3.00	295.00	100	GRO-PS3	Description	densign
+4011	171.64.65.96 	p4011_supervillin_2xStillGBSA_AM99sb_e1	576	2.00	3.00	295.00	100	GRO-PS3	Description	densign
+4012	171.64.65.96 	p4012_supervillin_Still_novisc	576	2.00	3.00	211.00	100	GRO-PS3	Description	densign
+4013	171.64.65.96 	p4013_supervillin_Still_novisc	576	2.00	3.00	250.00	100	GRO-PS3	Description	densign
+4100	171.64.65.111 	p4100_villinwt_folded_Amber03_Native	15838	32.00	48.00	176.00	100	GROSIMT	Description	gbowman
+4101	171.64.65.111 	p4101_supervillin_folded_Amber03_Native	18793	40.00	60.00	217.00	100	GROSIMT	Description	gbowman
+4102	171.64.65.111 	p4102_ww_folded_Amber03_Native	19430	39.00	59.00	215.00	100	GROSIMT	Description	gbowman
+4103	171.64.65.111 	p4103_wwmut_folded_Amber03_Native	14921	30.00	45.00	164.00	100	GROSIMT	Description	gbowman
+4104	171.64.65.111 	p4104_wwmouse_folded_Amber03_Native	18305	39.00	58.00	213.00	100	GROSIMT	Description	gbowman
+4105	171.64.65.111 	p4105_villinwt_unf_Amber03_Extended	15838	32.00	48.00	176.00	100	GROSIMT	Description	gbowman
+4107	171.64.65.111 	p4107_ww_unf_Amber03_Extended	19430	39.00	59.00	215.00	100	GROSIMT	Description	gbowman
+4108	171.64.65.111 	p4108_wwmut_unf_Amber03_Extended	14921	30.00	45.00	164.00	100	GROSIMT	Description	gbowman
+4109	171.64.65.111 	p4109_wwmouse_unf_Amber03_Extended	18305	39.00	58.00	213.00	100	GROSIMT	Description	gbowman
+4110	171.64.65.111 	p4110_ntl9_folded_Amber03_Native	14856	31.00	46.00	168.00	100	GROSIMT	Description	gbowman
+4111	171.64.65.111 	p4111_ntl9_unf_Amber03_Extended	14856	31.00	46.00	168.00	100	GROSIMT	Description	gbowman
+4112	171.64.65.111 	p4112_villinwt_big_folded_Amber03_Native	26314	55.00	85.00	303.00	100	GROSIMT	Description	gbowman
+4113	171.64.65.111 	p4113_villinwt_big_folded_Amber03_Native	26314	35.00	52.00	188.00	100	GROSIMT	Description	gbowman
+4114	171.64.65.111 	p4114_villinwt_folded_Amber03_Native	15838	20.00	30.00	107.00	100	GROSIMT	Description	NA
+4115	171.64.65.111 	p4115_villinwt_folded_Amber03_Native	15838	32.00	48.00	176.00	100	GROSIMT	Description	gbowman
+4116	171.64.65.111 	p4116_supervillin_folded_Amber03_Native	18793	40.00	60.00	217.00	100	GROSIMT	Description	gbowman
+4117	171.64.65.111 	p4117_ww_folded_Amber03_Native	19430	39.00	59.00	215.00	100	GROSIMT	Description	gbowman
+4118	171.64.65.111 	p4118_wwmut_folded_Amber03_Native	14921	30.00	45.00	164.00	100	GROSIMT	Description	gbowman
+4119	171.64.65.111 	p4119_wwmouse_folded_Amber03_Native	18305	39.00	58.00	213.00	100	GROSIMT	Description	gbowman
+4120	171.64.65.111 	p4120_ntl9_folded_Amber03_Native	14856	31.00	46.00	168.00	100	GROSIMT	Description	gbowman
+
+Projects in beta are not listed on this chart, as requested previously 

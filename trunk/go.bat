@@ -1,0 +1,1 @@
+java -cp .;lib\spring.jar;lib\commons-logging.jar;lib\quartz-1.6.0.jar;lib\log4j-1.2.14.jar;lib\commons-collections-3.1.jar;lib\jta.jar;lib\commons-net-1.4.1.jar;lib\finj-1.1.3.jar net.ypsilon.Scheduler
